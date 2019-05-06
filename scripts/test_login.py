@@ -2,7 +2,7 @@ class TestLogin:
 
     def test_login1(self):
         print("test_login1")
-        assert 1
+        assert 0
 
     def test_login2(self):
         print("test_login2")
